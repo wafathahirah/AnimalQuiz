@@ -1,6 +1,6 @@
-# final_project
+# Quiz about animal
 
-A new Flutter project.
+This Flutter project is the quiz about animal that was developed for primary students including the score.
 
 ## Getting Started
 
